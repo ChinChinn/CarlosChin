@@ -165,7 +165,7 @@ header table {
 #rightImage {
     width:100%;
     height:95vh;
-    background:linear-gradient(0deg,rgba(255, 44, 90, 0.2),rgba(2255, 44, 90, 0.05)),url("https://lh3.googleusercontent.com/K4ozczWAbp7Us0BXr89LcoZp3QXCM_ALbNXGe6FhR5N-y5q7-LCQXHpssbdYemZB0I-Se0bD-RXE9r5t8_Y9TGtad-7iS4fhRTycNF-tF4jqpesEd8UJFxky9WEu49DpuwRkjI64lYorhf9afiKn2P6l2ceF3FMqWMzETEP_rAw88Jjfdhi9asXMNEZ6uvu3sNvR9ensU8JBeMNNV0pyszDRzMwkKB9GWyYajSD2s44s1pAw9-UQGMAnNGbv9x1yFcjMtgcIR18CWy877dmZ4cQiVFOw4WYTmQVXBTmWcvRJc_z60k4WQB62DrbarJyr4KgoCHI8Phr3Y0FVtv9AeTg2jjFX_8AGeiOo4fDvqtnAbXNhStY6-hjN7aHvOt0cTBZWU_cyt7QUqRaVAhhHusy45xDNzZYi53XWe3sUo1s3B2PKK6g7IFXpZGZqsFE8gLWdm7vF3_B3oG-QdAURBVY_Xt3TjBUPxybsDeQpDa7MFV7DD7w7agMDV0RT_FYOLfjDjVg8kL5yufyv8nIxeKL2uonStogx03TnKcI5g7BAHspSJB1vY0MmR0xmeUn4gkkEWwwA22TaLfaFgr64xbxJ2FVKt8v6VWiLSxvbl2DLxEVttJ6CzrSZqLBFZH3uxA2Bd1MWQFM-vOANjZMbEr9gUwLjW5H7sKETtNZe_fBKmrVVXpdoKPc_0evWPQ=w1000-h667-no?authuser=0") center center;
+    background:linear-gradient(0deg,rgba(255, 44, 90, 0.2),rgba(2255, 44, 90, 0.05)),url("img/WebBG.png") center center;
     background-size:cover;
     background-repeat:no-repeat;
 }
